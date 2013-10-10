@@ -1,0 +1,98 @@
+			GRUPO DE MECATRÓNICA
+
+QUÉ ES?
+
+Espacio de ocio creativo en el que los alumnos, egresados y pofesores van a poder compartir y desarrollar trabajos y experiencias.
+
+Se desarrollaran aplicaciones concernientes a la mecatrónica en general.
+
+Espacio de colaboración.
+
+Espacio para intercambiar conocimientos y tecnicas.
+
+Integración de los alumnos de la facultad de ingeniería.
+
+
+PARA HACER QUÉ?
+
+Desarrollar los proyectos integradores de las diferentes materias de las carreras. 
+
+Llevar a cabo un proyecto global del grupo, con un nivel de complejidad mayor.
+
+Se pueden realizar proyectos personales.
+
+CÓMO?
+
+Dividido en unidades funcionales básicas y principales : Electrónica - Informática - Mecánica - Control
+
+De acuerdo a diferentes grupos de trabajo, con una persona a cargo de cada grupo.
+
+Motivando el intercambio de conocimientos entre los participantes.
+
+Poniendo a disposición equipos y materiales para realizar los trabajos.
+
+Permitiendo el acceso a los diferentes proyectos realizados, documentación técnica y la experiencia adquirida.
+
+CUÁNDO?
+
+Este espacio nos ofrece la posibilidad de poder aprovechar el tiempo libre intercambiando ideas y trabajando en proyectos. Para utilizar los recursos equitativamente debe repartirce la disponibilidad de la sala entre los interesados, fijando horarios. 
+
+Por ejemplo para los trabajos personales se especificará un día en el que se va a usar el espacio.
+
+TIPOS DE TRABAJOS
+
+Tres niveles de complegidad de proyectos:
+
+1 _Desarrollo de proyectos básicos.
+	Son proyectos cortos, que van a servir como elementos constitutivos en proyectos de mayor complejidad. Podrían ser los trabajos integradores de las materias del ciclo básico y tecnologías básicas.
+
+2 _Desarrollo Educativo y proyectos integradores
+	Son proyectos de complejidad media, pudiendo ser llevados a cabo por un grupo de personas o no, que pueden beneficiarce de los proyectos básicos. Podrían ser los trabajos integradores de las materias del ciclo tecnologías aplicadas, los proyectos personales y competencias.
+
+3 _Aplicativo 
+	Son trabajos de una complejidad mayor, realizados por un grupo de trabajo, con un plan de trabajo determinado, buscando la intgración con empresas y otras facultades.
+
+METODOLOGÍA DE TRABAJO
+
+Espacio físico:
+
+División en 3 áreas diferentes:
+	
+	Espacio de desarrollo informático: escritorios para trabajar con ordenadores personales.
+
+	Espacio destinado a la mecánica: Banco de trabajo y ensamble.
+					 Espacio destinado al prototipado rápido (impresora 3d - Cortadora Laser).
+					 Espacio para la herramientas.
+
+	Espacio destinado a la electrónica: Mesa de trabajo y soldadura.
+					    Espacio para hacer plaquetas.
+					    Banco de componentes y herramientas.
+
+Nivel proyecto:
+
+	Los trabajos de mediana y alta complejidad van a tener asignados un responsable quien sera el encargado tanto del avance del proyecto, realizando mensualmente reuniones para comentar el estado de los mismos, como también de los recursos.
+	
+	Todos los trabajos deben estar correctamente comentados  para permitir el uso posterior de los integrantes.
+
+	En el caso de los proyectos personales, no es un requisito obligatorio el dejar el proyecto físico en la asociación. Sin embargo, será obligatorio entregar documentación, códigos y planos del proyecto.
+
+	
+
+ELEMENTOS MINIMOS NECESARIOS
+
+Informática
+	PC Banco de datos
+	PC de trabajo con el software utilizado en la asociación
+Electrónica
+	Soldador
+	Osciloscopio
+Mecánica
+	Herramientas
+Comunes
+	Pizarrón
+	
+FINANCIACIÓN
+
+Cada participante va a costear los gastos de los proyectos en los que participa. 
+
+La asociación no trabajará con fondos. No obstante, se aceptarán donaciones que se utilizarán para proyectos grupales. 
