@@ -45,7 +45,7 @@ TIPOS DE TRABAJOS
 Tres niveles de complejidad de proyectos:
 
 1 _ Desarrollo de proyectos básicos.
-	Son proyectos cortos, que van a servir como elementos constitutivos en proyectos de mayor complejidad. Podrían ser los trabajos integradores de las materias del ciclo básico y tecnologías básicas.
+	Son proyectos cortos, que van a servir como elementos constitutivos en proyectos de mayor complejidad. Podrían ser los trabajos integradores de las materias del ciclo básico y tecnologías básicas, donde pueden integrarse alumnos de los primeros años de la carrera.
 
 2 _ Desarrollo Educativo y proyectos integradores
 	Son proyectos de complejidad media, pudiendo ser llevados a cabo por un grupo de personas o no, que pueden beneficiarse de los proyectos básicos. Podrían ser los trabajos integradores de las materias del ciclo tecnologías aplicadas, los proyectos personales y competencias.
@@ -72,9 +72,9 @@ División en 3 áreas diferentes:
 
 Nivel proyecto:
 
-	Los trabajos de mediana y alta complejidad van a tener asignados un responsable quien sera el encargado tanto del avance del proyecto, realizando mensualmente reuniones para comentar el estado de los mismos, como también de los recursos.
+	Los trabajos de mediana y alta complejidad van a tener asignados un responsable quien sera el encargado tanto del avance del proyecto, realizando mensualmente reuniones para comentar el estado de los mismos, como también de los recursos. El responsable estará encargado de que el proyecto sea correctamente documentado, para una posterior utilización dentro de la asociación.
 	
-	Todos los trabajos deben estar correctamente comentados  para permitir el uso posterior de los integrantes.
+	Todos los trabajos deben estar Todos los trabajos realizados en la asociación quedarán correctamente documentados en el banco de datos de la asociación, que será de acceso libre para los integrantes. De esta manera se favorece la transferencia de conocimientos entre los miembros, siguiendo uno de los objetivos fundamentales.
 
 	En el caso de los proyectos personales, no es un requisito obligatorio el dejar el proyecto físico en la asociación. Sin embargo, será obligatorio entregar documentación, códigos y planos del proyecto.
 
@@ -99,3 +99,28 @@ FINANCIACIÓN
 Cada participante va a costear los gastos de los proyectos en los que participa. 
 
 La asociación no trabajará con fondos. No obstante, se aceptarán donaciones que se utilizarán para proyectos grupales. 
+
+
+COMUNICACIÓN Y NOTIFICACIONES (dentro del grupo) :
+
+> Mencionar que en el grupo existe una lista de mails, nose una pizarra
+> de mensajes o lo que sea. Y como debe tratar de usarse estas vías de
+> comunicación para que nadie se pierda de nada.
+
+REGLAMENTO INTERNO
+
+> uff convivencia en el espacio físico, respecto a los espacios de cada
+> sección (mecanica, electronica, etc), el uso de herramientas y cosas
+> que haya que aclarar para evitar discuciones estupidas y evitar un mal
+> ambiente de trabajo, dado que haría imposible el objetivo del grupo.
+> Orden y limpieza? 
+
+> INVENTARIO
+> 
+> Debería existir un inventario con las cosas que el grupo posee, quien
+> las tiene en uso y en el
+> estado en que estan
+
+
+
+
