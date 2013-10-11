@@ -2,13 +2,11 @@
 
 QUÉ ES?
 
-Espacio de ocio creativo en el que los alumnos, egresados y pofesores van a poder compartir y desarrollar trabajos y experiencias.
+Espacio de ocio creativo en el que los alumnos, egresados y profesores van a poder compartir y desarrollar trabajos y experiencias.
 
 Se desarrollaran aplicaciones concernientes a la mecatrónica en general.
 
-Espacio de colaboración.
-
-Espacio para intercambiar conocimientos y tecnicas.
+Espacio de colaboración, para intercambiar conocimientos y técnicas.
 
 Integración de los alumnos de la facultad de ingeniería.
 
@@ -20,6 +18,7 @@ Desarrollar los proyectos integradores de las diferentes materias de las carrera
 Llevar a cabo un proyecto global del grupo, con un nivel de complejidad mayor.
 
 Se pueden realizar proyectos personales.
+
 
 CÓMO?
 
@@ -33,25 +32,28 @@ Poniendo a disposición equipos y materiales para realizar los trabajos.
 
 Permitiendo el acceso a los diferentes proyectos realizados, documentación técnica y la experiencia adquirida.
 
+
 CUÁNDO?
 
-Este espacio nos ofrece la posibilidad de poder aprovechar el tiempo libre intercambiando ideas y trabajando en proyectos. Para utilizar los recursos equitativamente debe repartirce la disponibilidad de la sala entre los interesados, fijando horarios. 
+Este espacio nos ofrece la posibilidad de poder aprovechar el tiempo libre intercambiando ideas y trabajando en proyectos. Para utilizar los recursos equitativamente debe repartirse la disponibilidad de la sala entre los interesados, fijando horarios. 
 
 Por ejemplo para los trabajos personales se especificará un día en el que se va a usar el espacio.
 
+
 TIPOS DE TRABAJOS
 
-Tres niveles de complegidad de proyectos:
+Tres niveles de complejidad de proyectos:
 
-1 _Desarrollo de proyectos básicos.
+1 _ Desarrollo de proyectos básicos.
 	Son proyectos cortos, que van a servir como elementos constitutivos en proyectos de mayor complejidad. Podrían ser los trabajos integradores de las materias del ciclo básico y tecnologías básicas.
 
-2 _Desarrollo Educativo y proyectos integradores
-	Son proyectos de complejidad media, pudiendo ser llevados a cabo por un grupo de personas o no, que pueden beneficiarce de los proyectos básicos. Podrían ser los trabajos integradores de las materias del ciclo tecnologías aplicadas, los proyectos personales y competencias.
+2 _ Desarrollo Educativo y proyectos integradores
+	Son proyectos de complejidad media, pudiendo ser llevados a cabo por un grupo de personas o no, que pueden beneficiarse de los proyectos básicos. Podrían ser los trabajos integradores de las materias del ciclo tecnologías aplicadas, los proyectos personales y competencias.
 
-3 _Aplicativo 
-	Son trabajos de una complejidad mayor, realizados por un grupo de trabajo, con un plan de trabajo determinado, buscando la intgración con empresas y otras facultades.
+3 _ Aplicativo 
+	Son trabajos de una complejidad mayor, realizados por un grupo de trabajo, con un plan de trabajo determinado, buscando la integración con empresas y otras facultades.
 
+	
 METODOLOGÍA DE TRABAJO
 
 Espacio físico:
@@ -78,7 +80,7 @@ Nivel proyecto:
 
 	
 
-ELEMENTOS MINIMOS NECESARIOS
+ELEMENTOS MÍNIMOS NECESARIOS
 
 Informática
 	PC Banco de datos
@@ -90,6 +92,7 @@ Mecánica
 	Herramientas
 Comunes
 	Pizarrón
+	
 	
 FINANCIACIÓN
 
