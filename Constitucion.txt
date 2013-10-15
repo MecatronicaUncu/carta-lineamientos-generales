@@ -107,6 +107,11 @@ COMUNICACIÓN Y NOTIFICACIONES (dentro del grupo) :
 > de mensajes o lo que sea. Y como debe tratar de usarse estas vías de
 > comunicación para que nadie se pierda de nada.
 
+
+ESTRUCTURA DE LA ORGANIZACIÓN
+
+> Presidente, tesorero? 
+
 REGLAMENTO INTERNO
 
 > uff convivencia en el espacio físico, respecto a los espacios de cada
@@ -117,6 +122,7 @@ REGLAMENTO INTERNO
 
 > INVENTARIO
 > 
+> Se implementará un sistema de inventario para catalogar los materiales disponibles dentro de la asociación. Este catálogo, 
 > Debería existir un inventario con las cosas que el grupo posee, quien
 > las tiene en uso y en el
 > estado en que estan
