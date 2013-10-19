@@ -104,12 +104,11 @@ Cada participante va a costear los gastos de los proyectos en los que participa.
 La asociación no trabajará con fondos. No obstante, se aceptarán donaciones que se utilizarán para proyectos grupales. 
 
 
-COMUNICACIÓN Y NOTIFICACIONES (dentro del grupo) :
+COMUNICACIÓN Y NOTIFICACIONES:
 
-> Mencionar que en el grupo existe una lista de mails, nose una pizarra
-> de mensajes o lo que sea. Y como debe tratar de usarse estas vías de
-> comunicación para que nadie se pierda de nada.
-> Reunión mensual de los grupos de trabajo.
+La asociación dispondrá de un sistema de mensajería electrónica en donde serán publicados los proyectos, avances e iniciativas.
+El objetivo de este sistema es que todos los miembros estén al corriente de las actividades realizadas.
+Así mismo, se realizará una reunión mensual entre los miembros, con el objetivo de discutir cuestiones administrativas y de proyectos..
 
 
 ESTRUCTURA DE LA ORGANIZACIÓN
@@ -124,22 +123,21 @@ regulares, convenidos en el reglamento interno.
 
 REGLAMENTO INTERNO
 
-> uff convivencia en el espacio físico, respecto a los espacios de cada
-> sección (mecanica, electronica, etc), el uso de herramientas y cosas
-> que haya que aclarar para evitar discuciones estupidas y evitar un mal
-> ambiente de trabajo, dado que haría imposible el objetivo del grupo.
-> Orden y limpieza? 
-La asociación va a tener un reglamento interno en base a las normas de convivencia de la facultad. Van a ser 
-
-> INVENTARIO
-> 
-> Se implementará un sistema de inventario para catalogar los materiales disponibles dentro de la asociación. Este catálogo, 
-> Debería existir un inventario con las cosas que el grupo posee, quien
-> las tiene en uso y en el
-> estado en que estan
-
-> LLAVE
-
-Puerta de la deti.
+La asociación va a poseer tener un reglamento interno en base a las normas de convivencia de la facultad, elegido por los miembros. 
+En él van a estar definidos las reglas básicas de convivencia, uso de herramientas y limpieza.
+Así mismo, el reglamento definirá las políticas a aplicar en caso de conflictos internos.
+El reglamento estipulará el periodo de selección del vocero de la asociación. 
 
 
+ INVENTARIO
+ 
+Se implementará un sistema de inventario para catalogar los materiales disponibles dentro de la asociación. 
+En el catálogo serán consignadas los prestamos de elementos de la asociación a los miembros.
+Además, el inventario deberá especificar el estado de los elementos. 
+
+
+ACCESO A LA ASOCIACIÓN
+
+Con el objetivo de evitar problemas de responsabilidades en caso de faltas de material, se dispondrá de una sola llave.
+Esta llave estará disponible en la recepción de la DETI, y puede ser solicitada por los miembros mediante firma de una planilla.
+La persona que ha firmado será responsable en caso de pérdida o rotura de elementos.
