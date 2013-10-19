@@ -1,6 +1,6 @@
 			GRUPO DE MECATRÓNICA
 
-QUÉ ES?
+¿QUÉ ES?
 
 Espacio de ocio creativo en el que los alumnos, egresados y profesores van a poder compartir y desarrollar trabajos y experiencias.
 
@@ -11,7 +11,7 @@ Así mismo, es un espacio de colaboración, para intercambiar conocimientos y t�
 Finalmente, se busca la integración de los alumnos de la facultad de ingeniería.
 
 
-PARA HACER QUÉ?
+¿PARA HACER QUÉ?
 
 Desarrollar los proyectos integradores de las diferentes materias de las carreras. 
 
@@ -20,7 +20,7 @@ Llevar a cabo proyectos en conjunto, con un nivel de complejidad mayor.
 Realizar proyectos personales.
 
 
-CÓMO?
+¿CÓMO?
 
 Dividido en unidades funcionales básicas y principales : Electrónica - Informática - Mecánica - Control
 
@@ -33,7 +33,7 @@ Poniendo a disposición equipos y materiales para realizar los trabajos.
 Permitiendo el acceso a los diferentes proyectos realizados, documentación técnica y experiencia adquirida.
 
 
-CUÁNDO?
+¿CUÁNDO?
 
 Este espacio nos ofrece la posibilidad de poder aprovechar el tiempo libre intercambiando ideas y trabajando en proyectos. 
 
@@ -45,7 +45,7 @@ TIPOS DE TRABAJOS
 Tres niveles de complejidad de proyectos:
 
 1 _ Desarrollo de proyectos básicos.
-	Son proyectos cortos, que van a servir como elementos constitutivos en proyectos de mayor complejidad. Podrían ser los trabajos integradores de las materias del ciclo básico y tecnologías básicas, donde pueden participar 
+	Son proyectos cortos que van a servir como elementos constitutivos en proyectos de mayor complejidad. Podrían ser los trabajos integradores de las materias del ciclo básico y tecnologías básicas, donde pueden participar 
 los alumnos de los primeros años de la carrera.
 
 2 _ Desarrollo Educativo y proyectos integradores
@@ -75,9 +75,9 @@ Se dividirá el espacio de trabajo en 3 áreas diferentes:
 Nivel proyecto:
 
 	Los trabajos de mediana y alta complejidad van a tener asignados un responsable. Él será el encargado del avance del proyecto, realizando reuniones regularmente para comentar el estado de los mismos, como 
-también delos recursos. El responsable estará encargado de que el proyecto sea correctamente documentado, para una posterior utilización dentro de la asociación.
+	también de los recursos. El responsable estará encargado de que el proyecto sea correctamente documentado, para una posterior utilización dentro de la asociación.
 	
-	Todos los trabajos realizados en la asociación quedarán correctamente documentados en el banco de datos, que será de acceso libre para los integrantes. De esta manera se favorece la transferencia de conocimientos entre los miembros, siguiendo uno de los objetivos fundamentales.
+	Todos los trabajos realizados en la asociación quedarán correctamente documentados en el banco de datos que será de acceso libre para los integrantes. De esta manera se favorece la transferencia de conocimientos entre los miembros, siguiendo uno de los objetivos fundamentales.
 
 	En el caso de los proyectos personales, no es un requisito obligatorio el dejar el proyecto físico en la asociación. Sin embargo, será obligatorio entregar documentación, códigos y planos del proyecto.
 
@@ -108,7 +108,7 @@ COMUNICACIÓN Y NOTIFICACIONES:
 
 La asociación dispondrá de un sistema de mensajería electrónica en donde serán publicados los proyectos, avances e iniciativas.
 El objetivo de este sistema es que todos los miembros estén al corriente de las actividades realizadas.
-Así mismo, se realizará una reunión mensual entre los miembros, con el objetivo de discutir cuestiones administrativas y de proyectos..
+Así mismo, se realizará una reunión mensual entre los miembros, con el objetivo de discutir cuestiones administrativas y de proyectos.
 
 
 ESTRUCTURA DE LA ORGANIZACIÓN
@@ -117,8 +117,7 @@ La estructura organizativa de la asociación es la siguiente:
 
 - Cada grupo de trabajo tendrá un responsable, encargado de coordinar a los miembros del grupo (como se explicó previamente).
 
-- Se contará con un vocero, interlocutor de la asociación ante las autoridades y otras personas. Así mismo, será la persona responsable en el caso de problemas. Esta persona se eligirá democráticamente y a intervalos 
-regulares, convenidos en el reglamento interno.  
+- Se contará con un vocero, interlocutor de la asociación ante las autoridades y otras personas. Así mismo, será la persona responsable en el caso de problemas. Esta persona va a elegirse democráticamente y a intervalos regulares, convenidos en el reglamento interno.  
 
 
 REGLAMENTO INTERNO
