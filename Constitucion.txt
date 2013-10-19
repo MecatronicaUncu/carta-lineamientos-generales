@@ -6,18 +6,18 @@ Espacio de ocio creativo en el que los alumnos, egresados y profesores van a pod
 
 Se desarrollaran aplicaciones concernientes a la mecatrónica en general.
 
-Espacio de colaboración, para intercambiar conocimientos y técnicas.
+Así mismo, es un espacio de colaboración, para intercambiar conocimientos y técnicas.
 
-Integración de los alumnos de la facultad de ingeniería.
+Finalmente, se busca la integración de los alumnos de la facultad de ingeniería.
 
 
 PARA HACER QUÉ?
 
 Desarrollar los proyectos integradores de las diferentes materias de las carreras. 
 
-Llevar a cabo un proyecto global del grupo, con un nivel de complejidad mayor.
+Llevar a cabo proyectos en conjunto, con un nivel de complejidad mayor.
 
-Se pueden realizar proyectos personales.
+Realizar proyectos personales.
 
 
 CÓMO?
@@ -30,14 +30,14 @@ Motivando el intercambio de conocimientos entre los participantes.
 
 Poniendo a disposición equipos y materiales para realizar los trabajos.
 
-Permitiendo el acceso a los diferentes proyectos realizados, documentación técnica y la experiencia adquirida.
+Permitiendo el acceso a los diferentes proyectos realizados, documentación técnica y experiencia adquirida.
 
 
 CUÁNDO?
 
-Este espacio nos ofrece la posibilidad de poder aprovechar el tiempo libre intercambiando ideas y trabajando en proyectos. Para utilizar los recursos equitativamente debe repartirse la disponibilidad de la sala entre los interesados, fijando horarios. 
+Este espacio nos ofrece la posibilidad de poder aprovechar el tiempo libre intercambiando ideas y trabajando en proyectos. 
 
-Por ejemplo para los trabajos personales se especificará un día en el que se va a usar el espacio.
+Para utilizar los recursos equitativamente debe repartirse la disponibilidad de la sala entre los interesados. Por ejemplo para los trabajos personales se especificará un día y un horario en el que se va a usar el espacio.
 
 
 TIPOS DE TRABAJOS
@@ -45,20 +45,22 @@ TIPOS DE TRABAJOS
 Tres niveles de complejidad de proyectos:
 
 1 _ Desarrollo de proyectos básicos.
-	Son proyectos cortos, que van a servir como elementos constitutivos en proyectos de mayor complejidad. Podrían ser los trabajos integradores de las materias del ciclo básico y tecnologías básicas, donde pueden integrarse alumnos de los primeros años de la carrera.
+	Son proyectos cortos, que van a servir como elementos constitutivos en proyectos de mayor complejidad. Podrían ser los trabajos integradores de las materias del ciclo básico y tecnologías básicas, donde pueden participar 
+los alumnos de los primeros años de la carrera.
 
 2 _ Desarrollo Educativo y proyectos integradores
-	Son proyectos de complejidad media, pudiendo ser llevados a cabo por un grupo de personas o no, que pueden beneficiarse de los proyectos básicos. Podrían ser los trabajos integradores de las materias del ciclo tecnologías aplicadas, los proyectos personales y competencias.
+	Son proyectos de complejidad media, pudiendo ser llevados a cabo por un grupo de personas o individualmente, utilizando elementos de proyectos básicos. Podrían entrar en esta categoría los trabajos integradores de las 
+materias del ciclo tecnologías aplicadas, los proyectos personales y competencias.
 
-3 _ Aplicativo 
-	Son trabajos de una complejidad mayor, realizados por un grupo de trabajo, con un plan de trabajo determinado, buscando la integración con empresas y otras facultades.
+3 _ Proyectos Aplicativos 
+	Son trabajos de una complejidad mayor, realizados por un grupo de trabajo con un plan de trabajo determinado. En este tipo de proyectos podrá buscarse la integración con empresas y otras facultades.
 
 	
 METODOLOGÍA DE TRABAJO
 
 Espacio físico:
 
-División en 3 áreas diferentes:
+Se dividirá el espacio de trabajo en 3 áreas diferentes:
 	
 	Espacio de desarrollo informático: escritorios para trabajar con ordenadores personales.
 
@@ -72,9 +74,10 @@ División en 3 áreas diferentes:
 
 Nivel proyecto:
 
-	Los trabajos de mediana y alta complejidad van a tener asignados un responsable quien sera el encargado tanto del avance del proyecto, realizando mensualmente reuniones para comentar el estado de los mismos, como también de los recursos. El responsable estará encargado de que el proyecto sea correctamente documentado, para una posterior utilización dentro de la asociación.
+	Los trabajos de mediana y alta complejidad van a tener asignados un responsable. Él será el encargado del avance del proyecto, realizando reuniones regularmente para comentar el estado de los mismos, como 
+también delos recursos. El responsable estará encargado de que el proyecto sea correctamente documentado, para una posterior utilización dentro de la asociación.
 	
-	Todos los trabajos deben estar Todos los trabajos realizados en la asociación quedarán correctamente documentados en el banco de datos de la asociación, que será de acceso libre para los integrantes. De esta manera se favorece la transferencia de conocimientos entre los miembros, siguiendo uno de los objetivos fundamentales.
+	Todos los trabajos realizados en la asociación quedarán correctamente documentados en el banco de datos, que será de acceso libre para los integrantes. De esta manera se favorece la transferencia de conocimientos entre los miembros, siguiendo uno de los objetivos fundamentales.
 
 	En el caso de los proyectos personales, no es un requisito obligatorio el dejar el proyecto físico en la asociación. Sin embargo, será obligatorio entregar documentación, códigos y planos del proyecto.
 
@@ -111,9 +114,13 @@ COMUNICACIÓN Y NOTIFICACIONES (dentro del grupo) :
 
 ESTRUCTURA DE LA ORGANIZACIÓN
 
-> Presidente, tesorero? 
+La estructura organizativa de la asociación es la siguiente:
 
-Designar un vocero. (Una cara para recibir puteadas)
+- Cada grupo de trabajo tendrá un responsable, encargado de coordinar a los miembros del grupo (como se explicó previamente).
+
+- Se contará con un vocero, interlocutor de la asociación ante las autoridades y otras personas. Así mismo, será la persona responsable en el caso de problemas. Esta persona se eligirá democráticamente y a intervalos 
+regulares, convenidos en el reglamento interno.  
+
 
 REGLAMENTO INTERNO
 
